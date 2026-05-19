@@ -21,7 +21,7 @@ namespace Flaskepost_2026
 
                 Console.WriteLine("1. Modtag tal og send videre");
                 Console.WriteLine("2. Send tal til Peer");
-                Console.WriteLine("3. Sæt Peer adresse og Peer Port");
+                Console.WriteLine("3. Sæt Peer adresse");
                 Console.WriteLine("4. Luk programmet");
                 Console.Write("Dit valg: ");
                 string choice = Console.ReadLine();
